@@ -1,0 +1,51 @@
+body {
+  font-family: sans-serif;
+  color: white;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+/* .navBar {
+  position: flex?????;
+  top: 0;
+  right: 0;
+  width: 250px;
+  background-color: lightgray;
+} */
+
+/* #navbar {
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  width: 100vw;
+  background-color: rgba(255, 255, 255, 0.15);
+} */
+
+.navBar {
+  display
+  height: 40px;
+  width: 100vw;
+  background-color: lightgray;
+}
+
+.purpleSection {
+  background-image: linear-gradient(90deg, purple, blue);
+  height: 100%;
+  width: 100%;
+}
+
+.whiteSection {
+  height: 100%;
+  width: 100%;
+}
